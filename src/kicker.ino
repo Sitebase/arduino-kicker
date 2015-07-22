@@ -40,6 +40,8 @@ void setup() {
 
     pinMode(sensorTeam1Pin, INPUT);
     sensorTeam1State = digitalRead(sensorTeam1Pin);
+    pinMode(sensorTeam2Pin, INPUT);
+    sensorTeam2State = digitalRead(sensorTeam2Pin);
 
     // define columns and rows
     lcd.begin(16, 2);
@@ -61,7 +63,7 @@ void loop() {
     int newTeam2State = digitalRead(sensorTeam2Pin);
     if( newTeam2State != sensorTeam2State ) {
         sensorTeam2State = newTeam2State;
-        score1++; // @todo this needs to be debounced
+        score2++; // @todo this needs to be debounced
     }
 
     updateScore();
