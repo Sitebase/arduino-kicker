@@ -2,6 +2,8 @@
 
 This project is used to convert our standard foosball into a digital version to automatically count the score.
 
+![Preview project](preview.jpg)
+
 ## Components
 
 * [LCD display](http://www.dx.com/p/16-x-2-character-lcd-display-module-with-blue-backlight-121356#.VbAWgOiqpBc)
