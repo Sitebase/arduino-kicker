@@ -1,0 +1,4 @@
+# Build and upload new source
+ino clean
+ino build -m pro5v328
+ino upload -m pro5v328
