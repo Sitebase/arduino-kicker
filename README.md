@@ -8,7 +8,7 @@ This project is used to convert our standard foosball into a digital version to 
 * [Arduino Pro mini](http://www.dx.com/p/arduino-pro-mini-microcontroller-circuit-board-blue-5v-16mhz-178183#.VbAWoOiqpBc)
 * [Battery holder](http://www.dx.com/p/14-8v-4-x-18650-battery-holder-case-box-with-leads-103855#.VbAWxOiqpBc)
 * [Potentiometer](http://www.dx.com/p/bonatech-potentiometers-deep-blue-10-pcs-326125#.VbAW_-iqpBc)
-* [Vibration sensor](http://www.dx.com/p/diy-vibration-switch-sensor-module-for-arduino-black-276589#.VbAXVuiqpBc) Use to detect goals in combination with piece of cardboard in the goals
+* [Vibration sensor](http://www.dx.com/p/diy-vibration-switch-sensor-module-for-arduino-black-276589#.VbAXVuiqpBc) Used to detect goals in combination with piece of cardboard in the goals
 
 ## Connections
 
